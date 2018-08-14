@@ -1,2 +1,2 @@
 # wildfly-postgres
-Docker image wildfly + postgres
+Docker image wildfly + liquibase
